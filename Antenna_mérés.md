@@ -132,20 +132,20 @@ Az **ISKRA P2845** antenna javasolt elsődleges használatra, mivel minden frekv
     <summary>Kattins a részletekért</summary>
 
     **474Mhz Mért Képek:**
-    <img src=""/>
-    <img src=""/>
+    <img src="https://erosbence27.github.io/jegyzokonyv/image/c48_fullkep474.bmp"/>
+    <img src="https://erosbence27.github.io/jegyzokonyv/image/c48_bit474.bmp"/>
 
 ---
 
     **570MHz Mért Képek**
-    <img src=""/>
-    <img src=""/>
+    <img src="https://erosbence27.github.io/jegyzokonyv/image/c48_fullkep570.bmp"/>
+    <img src="https://erosbence27.github.io/jegyzokonyv/image/c48_bit570.bmp"/>
 
 ---
 
     **706MHz Mért Képek**
-    <img src=""/>
-    <img src=""/>
+    <img src="https://erosbence27.github.io/jegyzokonyv/image/c48_fullkep706.bmp"/>
+    <img src="https://erosbence27.github.io/jegyzokonyv/image/c48_bit706.bmp"/>
 
 ---
 
@@ -154,50 +154,6 @@ Az **ISKRA P2845** antenna javasolt elsődleges használatra, mivel minden frekv
 
 <br>
 
-## 11. Számos tényezők:
-
-<details>
-<summary>Kattins a részletekért</summary>
-
-## Antenna Típusai 
-Logaritmikus antennák széles sávban képesek jeleket venni, így alkalmasak különböző frekvenciatartományokhoz.
-
-Yagi-antennák irányítottak, és magas nyereséget nyújtanak, ami különösen hasznos távoli adók vételénél.
-
-Panelantennák szélesebb szögben vesznek jelet, de kisebb távolságra hatékonyak.
-
----
-
-## Iránykarekterisztika
-Irányítottak, mint például a Yagi vagy parabolikus antennák, amelyek egy irányba összpontosítják a vételt. Ezek nagyobb távolságból is képesek erős jeleket fogni, de szűk lefedettségi területtel rendelkeznek.
-
-Omnidirekcionálisak, amelyek minden irányból egyenletesen veszik a jeleket, de általában kisebb távolságra hatékonyak.
-
----
-
-## Frekvenciasáv és sávszálesség
-Az antennák különböző frekvenciákon különböző teljesítményt nyújtanak. Egy antenna optimalizálva lehet egy adott frekvenciasávra (pl. UHF vagy VHF), és ezen a sávon nyújtja a legjobb teljesítményt. Ha az antenna sávszélessége túl szűk, a frekvenciasávon kívüli jelek vételében romlik a teljesítménye.
-
----
-
-## Zavaró tényezők és interferencia
-Városi környezet: Épületek, fém szerkezetek és más akadályok visszaverhetik vagy csillapíthatják a jeleket, ami gyengíti a vételt.
-
-Elektromos zajforrások: Más elektronikus eszközök, mobiltelefonok, wifi hálózatok interferenciát okozhatnak, amelyek rontják az antenna teljesítményét.
-
-Időjárási körülmények: Az eső, hó és a szél befolyásolhatják a rádióhullámok terjedését és ezzel az antenna teljesítményét.
-
----
-
-## Kábelminőség és csatlakozások
-Az antennából a vevő készülékhez vezető kábel minősége is kulcsfontosságú. A gyenge minőségű kábelek nagyobb jelveszteséget eredményeznek, és ezzel rontják az antenna teljesítményét.
- Rövidebb, alacsony csillapítású koaxiális kábel használata csökkentheti a veszteséget.
-
- ---
-
-</details>
-
-<br>
 
 
 
