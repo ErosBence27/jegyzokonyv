@@ -28,7 +28,14 @@ A mérés célja három különböző típusú antenna, az **Iskra P20**, az **I
 
 ---
 
-## 3. Antennák teljesítménye különböző frekvenciákon
+### 3. **Mérési helyszín és környezet**
+- **Antenna magassága**: 2 m
+- **Környezet jellemzői**: V3 labor
+- **Adó távolsága**: 15 m
+
+---
+
+## 4. Antennák teljesítménye különböző frekvenciákon
 
 | Frekvencia (MHz) | Antenna          | Jelszint (dBm) | MER (dB) | Bitsebesség (Mbps) |
 | ---------------- | ---------------- | -------------- | -------- | ------------------ |
@@ -44,7 +51,7 @@ A mérés célja három különböző típusú antenna, az **Iskra P20**, az **I
 
 ---
 
-## 4. Értékelés
+## 5. Értékelés
 
 ### Jelszint
 Az **ISKRA P2845** antenna mutatta a legmagasabb jelszinteket minden frekvencián, különösen a 33. csatornán (570 MHz), ahol -52,8 dBm-es eredményt produkált. Az **IKUSI FLASHD C48** szintén magas jelszintet ért el, míg az **Iskra P20** antenna a leggyengébb jelszinteket mutatta, különösen a 706 MHz-es frekvencián (-64.8 dBm).
@@ -57,37 +64,43 @@ A bitsebesség értékei az **ISKRA P2845** antennánál voltak a legjobbak, kü
 
 ---
 
-## 5. Következtetés
+## 6. Következtetés
 Az **ISKRA P2845** antenna a legjobb teljesítményt nyújtotta mind a jelszint, mind a jelminőség és bitsebesség tekintetében, különösen a közepes frekvenciatartományban (570 MHz). Az **IKUSI FLASHD C48** stabil és megbízható választás, míg az **Iskra P20** csak alacsonyabb frekvenciákon javasolt használatra.
 
 ---
 
-## 6. Javaslatok
+## 7. Javaslatok
 Az **ISKRA P2845** antenna javasolt elsődleges használatra, mivel minden frekvencián magasabb jelszintet és jobb jelminőséget biztosított. Amennyiben költséghatékonyabb megoldás szükséges, az **IKUSI FLASHD C48** is megfelelő választás lehet. Az **Iskra P20** csak alacsonyabb frekvenciákon javasolt, ahol még kielégítő teljesítményt nyújt.
 
 ---
 
-## 7. P-20 Képek:
+## 8. P-20 Képek:
 <details>
     <summary>Kattins a részletekért</summary>
 
     **474Mhz Mért Képek:**
     <img src="https://raw.githubusercontent.com/ErosBence27/jegyzokonyv/refs/heads/main/image/p20_fullkep474.bmp"/>
     <img src="https://raw.githubusercontent.com/ErosBence27/jegyzokonyv/refs/heads/main/image/p20_bit474.bmp"/>
+
 ---
+
     **570MHz Mért Képek**
     <img src="https://raw.githubusercontent.com/ErosBence27/jegyzokonyv/refs/heads/main/image/p20_fullkep570.bmp"/>
     <img src="https://raw.githubusercontent.com/ErosBence27/jegyzokonyv/refs/heads/main/image/p20_bit570.bmp"/>
+
 ---
+
     **706MHz Mért Képek**
     <img src="https://raw.githubusercontent.com/ErosBence27/jegyzokonyv/refs/heads/main/image/p20_fullkep706.bmp"/>
     <img src="https://raw.githubusercontent.com/ErosBence27/jegyzokonyv/refs/heads/main/image/p20_bit706.bmp"/>
+
 ---
+
 </details>
 
 <br>
 
-## 8. P-2845 Képek:
+## 9. P-2845 Képek:
 <details>
 
     <summary>Kattins a részletekért</summary>
@@ -95,38 +108,84 @@ Az **ISKRA P2845** antenna javasolt elsődleges használatra, mivel minden frekv
     **474Mhz Mért Képek:**
     <img src=""/>
     <img src=""/>
+
 ---
+
     **570MHz Mért Képek**
     <img src=""/>
     <img src=""/>
+
 ---
+
     **706MHz Mért Képek**
     <img src=""/>
     <img src=""/>
+
 ---
+
 </details>
 
 <br>
 
-## 9. FlashHD C-48 Képek:
+## 10. FlashHD C-48 Képek:
 <details>
     <summary>Kattins a részletekért</summary>
 
     **474Mhz Mért Képek:**
     <img src=""/>
     <img src=""/>
+
 ---
+
     **570MHz Mért Képek**
     <img src=""/>
     <img src=""/>
+
 ---
+
     **706MHz Mért Képek**
     <img src=""/>
     <img src=""/>
+
 ---
+
 </details>
 
+
 <br>
+
+## 11. Számos tényezők:
+
+<details>
+<summary>Kattins a részletekért</summary>
+
+## Antenna Típusai 
+Logaritmikus antennák széles sávban képesek jeleket venni, így alkalmasak különböző frekvenciatartományokhoz.
+
+Yagi-antennák irányítottak, és magas nyereséget nyújtanak, ami különösen hasznos távoli adók vételénél.
+
+Panelantennák szélesebb szögben vesznek jelet, de kisebb távolságra hatékonyak.
+
+## Iránykarekterisztika
+Irányítottak, mint például a Yagi vagy parabolikus antennák, amelyek egy irányba összpontosítják a vételt. Ezek nagyobb távolságból is képesek erős jeleket fogni, de szűk lefedettségi területtel rendelkeznek.
+
+Omnidirekcionálisak, amelyek minden irányból egyenletesen veszik a jeleket, de általában kisebb távolságra hatékonyak.
+
+## Frekvenciasáv és sávszálesség
+Az antennák különböző frekvenciákon különböző teljesítményt nyújtanak. Egy antenna optimalizálva lehet egy adott frekvenciasávra (pl. UHF vagy VHF), és ezen a sávon nyújtja a legjobb teljesítményt. Ha az antenna sávszélessége túl szűk, a frekvenciasávon kívüli jelek vételében romlik a teljesítménye.
+
+## Zavaró tényezők és interferencia
+Városi környezet: Épületek, fém szerkezetek és más akadályok visszaverhetik vagy csillapíthatják a jeleket, ami gyengíti a vételt.
+
+Elektromos zajforrások: Más elektronikus eszközök, mobiltelefonok, wifi hálózatok interferenciát okozhatnak, amelyek rontják az antenna teljesítményét.
+
+Időjárási körülmények: Az eső, hó és a szél befolyásolhatják a rádióhullámok terjedését és ezzel az antenna teljesítményét.
+
+## Kábelminőség és csatlakozások
+Az antennából a vevő készülékhez vezető kábel minősége is kulcsfontosságú. A gyenge minőségű kábelek nagyobb jelveszteséget eredményeznek, és ezzel rontják az antenna teljesítményét.
+ Rövidebb, alacsony csillapítású koaxiális kábel használata csökkentheti a veszteséget.
+</details>
+
 
 
 
