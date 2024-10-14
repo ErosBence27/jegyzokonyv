@@ -72,16 +72,16 @@ Az **ISKRA P2845** antenna javasolt elsődleges használatra, mivel minden frekv
     <summary>Kattins a részletekért</summary>
 
     **474Mhz Mért Képek:**
-    <img src="https://github.com/ErosBence27/jegyzokonyv/blob/main/p20_fullkep474.bmp"/>
-    <img src="https://github.com/ErosBence27/jegyzokonyv/blob/main/p20_bit474.bmp"/>
+    <img src="https://github.com/ErosBence27/jegyzokonyv/blob/main/image/p20_fullkep474.bmp"/>
+    <img src="https://github.com/ErosBence27/jegyzokonyv/blob/main/image/p20_bit474.bmp"/>
 ---
     **570MHz Mért Képek**
-    <img src="https://github.com/ErosBence27/jegyzokonyv/blob/main/p20_fullkep570.bmp"/>
-    <img src="https://github.com/ErosBence27/jegyzokonyv/blob/main/p20_bit570.bmp"/>
+    <img src="https://github.com/ErosBence27/jegyzokonyv/blob/main/image/p20_fullkep570.bmp"/>
+    <img src="https://github.com/ErosBence27/jegyzokonyv/blob/main/image/p20_bit570.bmp"/>
 ---
     **706MHz Mért Képek**
-    <img src="https://github.com/ErosBence27/jegyzokonyv/blob/main/p20_fullkep706.bmp"/>
-    <img src="https://github.com/ErosBence27/jegyzokonyv/blob/main/p20_bit706.bmp"/>
+    <img src="https://github.com/ErosBence27/jegyzokonyv/blob/main/image/p20_fullkep706.bmp"/>
+    <img src="https://github.com/ErosBence27/jegyzokonyv/blob/main/image/p20_bit706.bmp"/>
 ---
 </details>
 
