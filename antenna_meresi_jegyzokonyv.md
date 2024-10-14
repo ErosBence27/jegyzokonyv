@@ -73,4 +73,91 @@ A mérések során a labor környezetében tapasztalt esetleges zajok és interf
 ## 8. Grafikus ábrázolás
 A jelszint és MER értékek vizuális ábrázolását az alábbi diagramok mutatják be:
 
-![Jelszint és MER ábrázolás](path/to/generated_plot.png) <!-- Ezt a linket a generált ábrára kell cserélni -->
+![Jelszint és MER ábrázolás](https://erosbence27.github.io/jegyzokonyv/image/asd.PNG) 
+
+---
+
+## 9. Javaslatok
+Az **ISKRA P2845** antenna javasolt elsődleges használatra, mivel minden frekvencián magasabb jelszintet és jobb jelminőséget biztosított. Amennyiben költséghatékonyabb megoldás szükséges, az **IKUSI FLASHD C48** is megfelelő választás lehet. Az **Iskra P20** csak alacsonyabb frekvenciákon javasolt, ahol még kielégítő teljesítményt nyújt.
+
+---
+
+## 10. P-20 Képek:
+<details>
+    <summary>Kattins a részletekért</summary>
+
+    **474Mhz Mért Képek:**
+    <img src="https://erosbence27.github.io/jegyzokonyv/image/p20_bit474.bmp"/>
+    <img src="https://erosbence27.github.io/jegyzokonyv/image/p20_fullkep474.bmp"/>
+
+---
+
+    **570MHz Mért Képek**
+    <img src="https://erosbence27.github.io/jegyzokonyv/image/p20_bit570.bmp"/>
+    <img src="https://erosbence27.github.io/jegyzokonyv/image/p20_fullkep570.bmp"/>
+
+---
+
+    **706MHz Mért Képek**
+    <img src="https://erosbence27.github.io/jegyzokonyv/image/p20_bit706.bmp"/>
+    <img src="https://erosbence27.github.io/jegyzokonyv/image/p20_fullkep706.bmp"/>
+
+---
+
+</details>
+
+<br>
+
+## 11. P-2845 Képek:
+<details>
+
+    <summary>Kattins a részletekért</summary>
+
+    **474Mhz Mért Képek:**
+    <img src="https://erosbence27.github.io/jegyzokonyv/image/p2845_fullkep474.bmp"/>
+    <img src="https://erosbence27.github.io/jegyzokonyv/image/p2845_bit474.bmp"/>
+
+---
+
+    **570MHz Mért Képek**
+    <img src="https://erosbence27.github.io/jegyzokonyv/image/p2845_fullkep570.bmp"/>
+    <img src="https://erosbence27.github.io/jegyzokonyv/image/p2845_bit570.bmp"/>
+
+---
+
+    **706MHz Mért Képek**
+    <img src="https://erosbence27.github.io/jegyzokonyv/image/p2845_fullkep706.bmp"/>
+    <img src="https://erosbence27.github.io/jegyzokonyv/image/p2845_bit706.bmp"/>
+
+---
+
+</details>
+
+<br>
+
+## 12. FlashHD C-48 Képek:
+<details>
+    <summary>Kattins a részletekért</summary>
+
+    **474Mhz Mért Képek:**
+    <img src="https://erosbence27.github.io/jegyzokonyv/image/c48_fullkep474.bmp"/>
+    <img src="https://erosbence27.github.io/jegyzokonyv/image/c48_bit474.bmp"/>
+
+---
+
+    **570MHz Mért Képek**
+    <img src="https://erosbence27.github.io/jegyzokonyv/image/c48_fullkep570.bmp"/>
+    <img src="https://erosbence27.github.io/jegyzokonyv/image/c48_bit570.bmp"/>
+
+---
+
+    **706MHz Mért Képek**
+    <img src="https://erosbence27.github.io/jegyzokonyv/image/c48_fullkep706.bmp"/>
+    <img src="https://erosbence27.github.io/jegyzokonyv/image/c48_bit706.bmp"/>
+
+---
+
+</details>
+
+
+<br>
