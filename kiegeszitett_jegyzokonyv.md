@@ -197,7 +197,7 @@ További mérési javaslatok a jobb vétel és minőség érdekében szerepelnek
 <br>
 
 **LTE**
-<img src="https://erosbence27.github.io/jegyzokonyv/image/lte.PNG"/>
+<img src="https://erosbence27.github.io/jegyzokonyv/image/lte2.PNG"/>
 
 
 
