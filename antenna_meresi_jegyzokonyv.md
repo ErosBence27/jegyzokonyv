@@ -84,21 +84,21 @@ Az **ISKRA P2845** antenna javasolt elsődleges használatra, mivel minden frekv
 
 ## 10. P-20 Képek:
 <details>
-    <summary>Kattins a részletekért</summary>
+<summary>Kattins a részletekért</summary>
 
-    **474Mhz Mért Képek:**
+**474Mhz Mért Képek:**
     <img src="https://erosbence27.github.io/jegyzokonyv/image/p20_bit474.bmp"/>
     <img src="https://erosbence27.github.io/jegyzokonyv/image/p20_fullkep474.bmp"/>
 
 ---
 
-    **570MHz Mért Képek**
+**570MHz Mért Képek**
     <img src="https://erosbence27.github.io/jegyzokonyv/image/p20_bit570.bmp"/>
     <img src="https://erosbence27.github.io/jegyzokonyv/image/p20_fullkep570.bmp"/>
 
 ---
 
-    **706MHz Mért Képek**
+**706MHz Mért Képek**
     <img src="https://erosbence27.github.io/jegyzokonyv/image/p20_bit706.bmp"/>
     <img src="https://erosbence27.github.io/jegyzokonyv/image/p20_fullkep706.bmp"/>
 
@@ -111,21 +111,21 @@ Az **ISKRA P2845** antenna javasolt elsődleges használatra, mivel minden frekv
 ## 11. P-2845 Képek:
 <details>
 
-    <summary>Kattins a részletekért</summary>
+<summary>Kattins a részletekért</summary>
 
-    **474Mhz Mért Képek:**
+**474Mhz Mért Képek:**
     <img src="https://erosbence27.github.io/jegyzokonyv/image/p2845_fullkep474.bmp"/>
     <img src="https://erosbence27.github.io/jegyzokonyv/image/p2845_bit474.bmp"/>
 
 ---
 
-    **570MHz Mért Képek**
+**570MHz Mért Képek**
     <img src="https://erosbence27.github.io/jegyzokonyv/image/p2845_fullkep570.bmp"/>
     <img src="https://erosbence27.github.io/jegyzokonyv/image/p2845_bit570.bmp"/>
 
 ---
 
-    **706MHz Mért Képek**
+**706MHz Mért Képek**
     <img src="https://erosbence27.github.io/jegyzokonyv/image/p2845_fullkep706.bmp"/>
     <img src="https://erosbence27.github.io/jegyzokonyv/image/p2845_bit706.bmp"/>
 
@@ -137,21 +137,21 @@ Az **ISKRA P2845** antenna javasolt elsődleges használatra, mivel minden frekv
 
 ## 12. FlashHD C-48 Képek:
 <details>
-    <summary>Kattins a részletekért</summary>
+<summary>Kattins a részletekért</summary>
 
-    **474Mhz Mért Képek:**
+**474Mhz Mért Képek:**
     <img src="https://erosbence27.github.io/jegyzokonyv/image/c48_fullkep474.bmp"/>
     <img src="https://erosbence27.github.io/jegyzokonyv/image/c48_bit474.bmp"/>
 
 ---
 
-    **570MHz Mért Képek**
+**570MHz Mért Képek**
     <img src="https://erosbence27.github.io/jegyzokonyv/image/c48_fullkep570.bmp"/>
     <img src="https://erosbence27.github.io/jegyzokonyv/image/c48_bit570.bmp"/>
 
 ---
 
-    **706MHz Mért Képek**
+**706MHz Mért Képek**
     <img src="https://erosbence27.github.io/jegyzokonyv/image/c48_fullkep706.bmp"/>
     <img src="https://erosbence27.github.io/jegyzokonyv/image/c48_bit706.bmp"/>
 
@@ -163,5 +163,5 @@ Az **ISKRA P2845** antenna javasolt elsődleges használatra, mivel minden frekv
 <br>
 
 **Aláírás:**  
-Sándor Péter  
+Erős Bence 
 **Dátum:** 2024. 10. 14
