@@ -173,10 +173,6 @@ További mérési javaslatok a jobb vétel és minőség érdekében szerepelnek
 <details>
 <summary>Kattins a részletekért</summary>
 
-  **LTE**
-<img src="https://erosbence27.github.io/jegyzokonyv/image/lte.PNG"/>
-
-<br>
 
 **Miskolci TV**
 <img src="https://erosbence27.github.io/jegyzokonyv/image/miksolcitv.PNG"/>
@@ -197,6 +193,11 @@ További mérési javaslatok a jobb vétel és minőség érdekében szerepelnek
 **Csatornák áthelyezve**
 <img src="https://erosbence27.github.io/jegyzokonyv/image/ch_athelyezve.PNG"/>
 <img src="https://erosbence27.github.io/jegyzokonyv/image/ch_athelyezve_2.PNG"/>
+
+<br>
+
+**LTE**
+<img src="https://erosbence27.github.io/jegyzokonyv/image/lte.PNG"/>
 
 
 
