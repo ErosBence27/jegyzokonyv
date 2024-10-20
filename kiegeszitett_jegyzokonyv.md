@@ -173,7 +173,7 @@ További mérési javaslatok a jobb vétel és minőség érdekében szerepelnek
 <details>
 <summary>Kattins a részletekért</summary>
 
-**LTE**
+  **LTE**
 <img src="https://erosbence27.github.io/jegyzokonyv/image/lte.PNG"/>
 
 <br>
