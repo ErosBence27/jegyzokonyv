@@ -168,12 +168,12 @@ További mérési javaslatok a jobb vétel és minőség érdekében szerepelnek
 
 --- 
 
-## 14.
+## 14. ### Mért Képek
 
 <details>
 <summary>Kattins a részletekért</summary>
 
-### Mért Képek: 
+ 
 **LTE**
 
 <img src="https://erosbence27.github.io/jegyzokonyv/image/lte.PNG"/>
@@ -181,6 +181,7 @@ További mérési javaslatok a jobb vétel és minőség érdekében szerepelnek
 **Miskolci TV**
 
 <img src="https://erosbence27.github.io/jegyzokonyv/image/miksolcitv.PNG"/>
+
 
 **6db csatorna**
 
