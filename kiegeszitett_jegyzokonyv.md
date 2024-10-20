@@ -168,7 +168,7 @@ További mérési javaslatok a jobb vétel és minőség érdekében szerepelnek
 
 --- 
 
-## 14. ### Mért Képek
+## 14. Mért Képek
 
 <details>
 <summary>Kattins a részletekért</summary>
