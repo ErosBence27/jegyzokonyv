@@ -173,35 +173,40 @@ További mérési javaslatok a jobb vétel és minőség érdekében szerepelnek
 <details>
 <summary>Kattins a részletekért</summary>
 
- 
-### LTE
+ ---
 
+**LTE**
 <img src="https://erosbence27.github.io/jegyzokonyv/image/lte.PNG"/>
 
-**Miskolci TV**
+---
 
+**Miskolci TV**
 <img src="https://erosbence27.github.io/jegyzokonyv/image/miksolcitv.PNG"/>
 
+---
 
 **6db csatorna**
-
 <img src="https://erosbence27.github.io/jegyzokonyv/image/6db_ch.PNG"/>
 
-**41 Ch adás**
+---
 
+**41 Ch adás**
 <img src="https://erosbence27.github.io/jegyzokonyv/image/41_ch_adas.PNG"/>
 <img src="https://erosbence27.github.io/jegyzokonyv/image/41_ch_adas_2.PNG"/>
 
-**Csatornák áthelyezve**
+---
 
+**Csatornák áthelyezve**
 <img src="https://erosbence27.github.io/jegyzokonyv/image/ch_athelyezve.PNG"/>
 <img src="https://erosbence27.github.io/jegyzokonyv/image/ch_athelyezve_2.PNG"/>
 
-
+---
 
 </details>
 
 <br>
+
+---
 
 **Aláírás:** Erős Bence
 
