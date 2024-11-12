@@ -3,7 +3,7 @@
 
 **A mérést végző neve:** Erős Bence  
 **A mérés tárgya:** Antennák teljesítményének és jelminőségének összehasonlítása  
-**A mérés száma:** 5. mérés  
+**A mérés száma:** 1. mérés  
 **A mérés dátuma:** 2024. 10. 14  
 **A mérést vezette:** Sándor Péter  
 
