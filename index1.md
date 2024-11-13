@@ -6,7 +6,7 @@
 
 
 
-## [02. Frekvencia áthelyezés/Mérés](https://erosbence27.github.io/jegyzokonyv/6700.md)
+## [02. Frekvencia áthelyezés/Mérés](https://erosbence27.github.io/jegyzokonyv/6700)
 
 
 
