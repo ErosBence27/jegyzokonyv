@@ -59,7 +59,7 @@ A következő paramétereket olvastuk le a spektrumanalizátorról és a modulá
 ---
 
 ### 6. Következtetés
- -A mérések során megismertük a **Johansson 8202 DVB-T modulátor** alapvető képességeit, és pontos adatokat kaptunk a bitsebességről és jelminőségről. A mérési eredmények alapján a modulátor megfelelő teljesítményt nyújtott, és a jelszint, bitsebesség, valamint a MER értékek a várakozásoknak megfelelően alakultak.
+ - A mérések során megismertük a **Johansson 8202 DVB-T modulátor** alapvető képességeit, és pontos adatokat kaptunk a bitsebességről és jelminőségről. A mérési eredmények alapján a modulátor megfelelő teljesítményt nyújtott, és a jelszint, bitsebesség, valamint a MER értékek a várakozásoknak megfelelően alakultak.
 
  - Azonnal láthatóvá válik, hogy a TV1 Pongo magasabb bitsebességgel és erősebb teljesítménnyel dolgozik, míg a TV2 Erős jobb MER értékkel bír.
 
