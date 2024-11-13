@@ -10,5 +10,5 @@
 
 
 
-## [03. ]
+## [03.Bitsebesség vs. jelminőség mérés](https.//erosbence27.github.io/jegyzokonyv/bit_jelszint)
 
