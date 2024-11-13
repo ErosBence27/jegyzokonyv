@@ -136,7 +136,6 @@ További mérésekkel, például különböző antennák tesztelésével, zajfor
 
 </details>
 
----
 
 **Aláírás:** Erős Bence
 
