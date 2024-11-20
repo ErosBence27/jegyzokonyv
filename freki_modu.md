@@ -82,7 +82,7 @@ Az alábbi táblázatban összefoglaljuk a mérések eredményeit különböző 
 <details>
 <summary>Kattins a részletekért</summary>
 
-1. **Szélsőséges Jelszint Tesztelése**
+1. Szélsőséges Jelszint Tesztelése
 - **Cél**: Vizsgálni, hogyan viselkedik a rendszer különböző jelszint értékek mellett.
 - **Lépések**:
   1. Állítsuk be a jelszintet az RF kimeneten szélsőségesen alacsony és magas értékekre (pl. -60 dBm, -20 dBm).
@@ -91,7 +91,7 @@ Az alábbi táblázatban összefoglaljuk a mérések eredményeit különböző 
 
 ---
 
-2. **Szűkebb és Szélesebb Sávszélesség Hatásai**
+2. Szűkebb és Szélesebb Sávszélesség Hatásai
 - **Cél**: Megvizsgálni a sávszélesség változtatásának hatását a jel minőségére és teljesítményére.
 - **Lépések**:
   1. Állítsuk be a sávszélességet különböző értékekre (pl. 6 MHz, 7 MHz, 8 MHz).
@@ -100,7 +100,7 @@ Az alábbi táblázatban összefoglaljuk a mérések eredményeit különböző 
 
 ---
 
-3. **Zavarforrások Hatása**
+3. Zavarforrások Hatása
 - **Cél**: Meghatározni, hogy a közeli rádiófrekvenciás zavarok hogyan befolyásolják a jelek minőségét.
 - **Lépések**:
   1. Helyezzünk egy zavarforrást (pl. másik RF jeladó) a vizsgált frekvencia közelébe.
@@ -109,7 +109,7 @@ Az alábbi táblázatban összefoglaljuk a mérések eredményeit különböző 
 
 ---
 
-4. **Moduláció Stabilitásának Vizsgálata Időfüggvényében**
+4. Moduláció Stabilitásának Vizsgálata Időfüggvényében
 - **Cél**: Tesztelni, hogy hosszabb időtartam alatt mennyire stabil a jel különböző modulációs típusok esetén.
 - **Lépések**:
   1. Állítsuk be az eszközt egy modulációs típusra (pl. 64QAM).
@@ -118,7 +118,7 @@ Az alábbi táblázatban összefoglaljuk a mérések eredményeit különböző 
 
 ---
 
-5. **Szomszédos Csatornák Vizsgálata**
+5. Szomszédos Csatornák Vizsgálata
 - **Cél**: Megérteni, hogyan befolyásolja a szomszédos csatornák jelenléte a méréseket.
 - **Lépések**:
   1. Aktiváljunk egy szomszédos csatornán (pl. 482 MHz vagy 498 MHz) másik DVB-T jelet.
@@ -127,7 +127,7 @@ Az alábbi táblázatban összefoglaljuk a mérések eredményeit különböző 
 
 ---
 
-6. **Jelkésleltetés Vizsgálata**
+6. Jelkésleltetés Vizsgálata
 - **Cél**: Ellenőrizni a rendszer válaszidejét különböző beállítások mellett.
 - **Lépések**:
   1. Állítsunk be eltérő modulációkat és sávszélességeket.
@@ -136,10 +136,10 @@ Az alábbi táblázatban összefoglaljuk a mérések eredményeit különböző 
 
 ---
 
-7. **Hőmérséklet Hatásának Vizsgálata**
+7. Hőmérséklet Hatásának Vizsgálata
 - **Cél**: Megérteni, hogyan befolyásolja a környezeti hőmérséklet a rendszer teljesítményét.
 - **Lépések**:
-  1. Végezze el a méréseket különböző hőmérsékleteken (pl. 0°C, 25°C, 50°C).
+  1. Végezze el a méréseket különböző hőmérsékleteken (pl. 0°C, 25°C, 30°C).
   2. Rögzítse a jelszint, MER és bitsebesség értékeket.
 - **Elvárt eredmények**: Szélsőséges hőmérsékleteken csökkenhet a rendszer stabilitása.
 
