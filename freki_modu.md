@@ -190,7 +190,9 @@ Az alábbi táblázatban összefoglaljuk a mérések eredményeit különböző 
 ---
 
 ## 9. Diagramm
-- Mérési jegyzőkönyv grafikon: *[Melléklet nem elérhető]*  
+- Mérési jegyzőkönyv grafikon: 
+![diagram](https://github.com/user-attachments/assets/4998637f-514c-4694-a393-6de12c99c446)
+
 
 ---
 
