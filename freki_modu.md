@@ -85,101 +85,103 @@ Az alábbi táblázatban összefoglaljuk a mérések eredményeit különböző 
 
 <summary>Kattins a részletekért</summary>   
 
-1. Szélsőséges Jelszint Tesztelése   
+<h1>Mérési Javaslatok</h1>
 
-- **Cél**: Vizsgálni, hogyan viselkedik a rendszer különböző jelszint értékek mellett.   
+    <h2>1. Szélsőséges Jelszint Tesztelése</h2>
+    <ul>
+        <li><strong>Cél:</strong> Vizsgálni, hogyan viselkedik a rendszer különböző jelszint értékek mellett.</li>
+        <li><strong>Lépések:</strong>
+            <ol>
+                <li>Állítsuk be a jelszintet az RF kimeneten szélsőségesen alacsony és magas értékekre (pl. -60 dBm, -20 dBm).</li>
+                <li>Mérjük meg a bitsebességet és a MER-t a kiválasztott modulációs típusok mellett.</li>
+            </ol>
+        </li>
+        <li><strong>Elvárt eredmények:</strong> Magasabb jelszintnél stabilabb adatátvitel, alacsonyabb jelszintnél romló MER és csökkenő bitsebesség.</li>
+    </ul>
 
-- **Lépések**:  
+    <hr>
 
-  1. Állítsuk be a jelszintet az RF kimeneten szélsőségesen alacsony és magas értékekre (pl. -60 dBm, -20 dBm).  
+    <h2>2. Szűkebb és Szélesebb Sávszélesség Hatásai</h2>
+    <ul>
+        <li><strong>Cél:</strong> Megvizsgálni a sávszélesség változtatásának hatását a jel minőségére és teljesítményére.</li>
+        <li><strong>Lépések:</strong>
+            <ol>
+                <li>Állítsuk be a sávszélességet különböző értékekre (pl. 6 MHz, 7 MHz, 8 MHz).</li>
+                <li>Rögzítsük a jelszintet, MER-t és a bitsebességet.</li>
+            </ol>
+        </li>
+        <li><strong>Elvárt eredmények:</strong> Szélesebb sávszélességnél nagyobb bitsebesség, de csökkenhet a MER.</li>
+    </ul>
 
-  2. Mérjük meg a bitsebességet és a MER-t a kiválasztott modulációs típusok mellett.  
+    <hr>
 
-- **Elvárt eredmények**: Magasabb jelszintnél stabilabb adatátvitel, alacsonyabb jelszintnél romló MER és csökkenő bitsebesség.   
+    <h2>3. Zavarforrások Hatása</h2>
+    <ul>
+        <li><strong>Cél:</strong> Meghatározni, hogy a közeli rádiófrekvenciás zavarok hogyan befolyásolják a jelek minőségét.</li>
+        <li><strong>Lépések:</strong>
+            <ol>
+                <li>Helyezzünk egy zavarforrást (pl. másik RF jeladó) a vizsgált frekvencia közelébe.</li>
+                <li>Mérjük meg a jelszintet, MER-t és a bitsebességet különböző távolságokból.</li>
+            </ol>
+        </li>
+        <li><strong>Elvárt eredmények:</strong> Zavarforrás jelenléte csökkentheti a MER-t és növelheti a hibaarányt.</li>
+    </ul>
 
----  
+    <hr>
 
-2. Szűkebb és Szélesebb Sávszélesség Hatásai
+    <h2>4. Moduláció Stabilitásának Vizsgálata Időfüggvényében</h2>
+    <ul>
+        <li><strong>Cél:</strong> Tesztelni, hogy hosszabb időtartam alatt mennyire stabil a jel különböző modulációs típusok esetén.</li>
+        <li><strong>Lépések:</strong>
+            <ol>
+                <li>Állítsuk be az eszközt egy modulációs típusra (pl. 64QAM).</li>
+                <li>Mérjünk jelszintet, MER-t és bitsebességet óránként legalább 12 órán keresztül.</li>
+            </ol>
+        </li>
+        <li><strong>Elvárt eredmények:</strong> Stabil rendszer esetén a paramétereknek változatlannak kell maradniuk.</li>
+    </ul>
 
-- **Cél**: Megvizsgálni a sávszélesség változtatásának hatását a jel minőségére és teljesítményére.
+    <hr>
 
-- **Lépések**:
+    <h2>5. Szomszédos Csatornák Vizsgálata</h2>
+    <ul>
+        <li><strong>Cél:</strong> Megérteni, hogyan befolyásolja a szomszédos csatornák jelenléte a méréseket.</li>
+        <li><strong>Lépések:</strong>
+            <ol>
+                <li>Aktiváljunk egy szomszédos csatornán (pl. 482 MHz vagy 498 MHz) másik DVB-T jelet.</li>
+                <li>Mérjük meg a főcsatorna (490 MHz) paramétereit.</li>
+            </ol>
+        </li>
+        <li><strong>Elvárt eredmények:</strong> Növekvő interferencia esetén csökkenhet a MER és romolhat a jel minősége.</li>
+    </ul>
 
-  1. Állítsuk be a sávszélességet különböző értékekre (pl. 6 MHz, 7 MHz, 8 MHz).
+    <hr>
 
-  2. Rögzítsük a jelszintet, MER-t és a bitsebességet.
+    <h2>6. Jelkésleltetés Vizsgálata</h2>
+    <ul>
+        <li><strong>Cél:</strong> Ellenőrizni a rendszer válaszidejét különböző beállítások mellett.</li>
+        <li><strong>Lépések:</strong>
+            <ol>
+                <li>Állítsunk be eltérő modulációkat és sávszélességeket.</li>
+                <li>Mérjük meg a jelkésleltetést (pl. speciális analizátorral vagy műszerekkel).</li>
+            </ol>
+        </li>
+        <li><strong>Elvárt eredmények:</strong> A sávszélesség és moduláció változtatása hatással lehet a késleltetésre.</li>
+    </ul>
 
-- **Elvárt eredmények**: Szélesebb sávszélességnél nagyobb bitsebesség, de csökkenhet a MER.
+    <hr>
 
----
-
-3. Zavarforrások Hatása
-
-- **Cél**: Meghatározni, hogy a közeli rádiófrekvenciás zavarok hogyan befolyásolják a jelek minőségét.
-
-- **Lépések**:
-
-  1. Helyezzünk egy zavarforrást (pl. másik RF jeladó) a vizsgált frekvencia közelébe.
-
-  2. Mérjük meg a jelszintet, MER-t és a bitsebességet különböző távolságokból.
-
-- **Elvárt eredmények**: Zavarforrás jelenléte csökkentheti a MER-t és növelheti a hibaarányt.
-
----
-
-4. Moduláció Stabilitásának Vizsgálata Időfüggvényében
-
-- **Cél**: Tesztelni, hogy hosszabb időtartam alatt mennyire stabil a jel különböző modulációs típusok esetén.
-
-- **Lépések**:
-
-  1. Állítsuk be az eszközt egy modulációs típusra (pl. 64QAM).
-
-  2. Mérjünk jelszintet, MER-t és bitsebességet óránként legalább 12 órán keresztül.
-
-- **Elvárt eredmények**: Stabil rendszer esetén a paramétereknek változatlannak kell maradniuk.
-
----
-
-5. Szomszédos Csatornák Vizsgálata
-
-- **Cél**: Megérteni, hogyan befolyásolja a szomszédos csatornák jelenléte a méréseket.
-
-- **Lépések**:
-
-  1. Aktiváljunk egy szomszédos csatornán (pl. 482 MHz vagy 498 MHz) másik DVB-T jelet.
-
-  2. Mérjük meg a főcsatorna (490 MHz) paramétereit.
-
-- **Elvárt eredmények**: Növekvő interferencia esetén csökkenhet a MER és romolhat a jel minősége.
-
----
-
-6. Jelkésleltetés Vizsgálata
-
-- **Cél**: Ellenőrizni a rendszer válaszidejét különböző beállítások mellett.
-
-- **Lépések**:
-
-  1. Állítsunk be eltérő modulációkat és sávszélességeket.
-
-  2. Mérjük meg a jelkésleltetést (pl. speciális analizátorral vagy műszerekkel).
-
-- **Elvárt eredmények**: A sávszélesség és moduláció változtatása hatással lehet a késleltetésre.
-
----
-
-7. Hőmérséklet Hatásának Vizsgálata
-
-- **Cél**: Megérteni, hogyan befolyásolja a környezeti hőmérséklet a rendszer teljesítményét.
-
-- **Lépések**:
-
-  1. Végezze el a méréseket különböző hőmérsékleteken (pl. 0°C, 25°C, 30°C).
-
-  2. Rögzítse a jelszint, MER és bitsebesség értékeket.
-
-- **Elvárt eredmények**: Szélsőséges hőmérsékleteken csökkenhet a rendszer stabilitása.   
+    <h2>7. Hőmérséklet Hatásának Vizsgálata</h2>
+    <ul>
+        <li><strong>Cél:</strong> Megérteni, hogyan befolyásolja a környezeti hőmérséklet a rendszer teljesítményét.</li>
+        <li><strong>Lépések:</strong>
+            <ol>
+                <li>Végezze el a méréseket különböző hőmérsékleteken (pl. 0°C, 25°C, 30°C).</li>
+                <li>Rögzítse a jelszint, MER és bitsebesség értékeket.</li>
+            </ol>
+        </li>
+        <li><strong>Elvárt eredmények:</strong> Szélsőséges hőmérsékleteken csökkenhet a rendszer stabilitása.</li>
+    </ul>  
 
 </details>
 
