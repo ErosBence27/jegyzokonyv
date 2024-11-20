@@ -226,7 +226,7 @@ Az alábbi táblázatban összefoglaljuk a mérések eredményeit különböző 
 
 <br>
 
-<img src="https://erosbence27.github.io/jegyzokonyv/image/16qam_meter.bmp"/>
+<img src="https://erosbence27.github.io/jegyzokonyv/image/16qam_bit.bmp"/>
 
 <br>
 
