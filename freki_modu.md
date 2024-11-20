@@ -56,7 +56,7 @@ Az alábbi táblázatban összefoglaljuk a mérések eredményeit különböző 
 
 ---
 
-## 5. Lépések és Módszertan
+## 5. Lépések
 1. **Modulátor konfigurációja**:
    - A Johansson 8202 DVB-T modulátoron beállítottuk a kívánt frekvenciát (490 MHz) és a sávszélességet (8 MHz).  
    - A modulációs típusokat egyesével módosítottuk: QPSK, 16QAM, 64QAM.
@@ -81,23 +81,23 @@ Az alábbi táblázatban összefoglaljuk a mérések eredményeit különböző 
 
 ## 8. További Mérési Javaslatok
 
-<details>
+<details>   
 
-<summary>Kattins a részletekért</summary>
+<summary>Kattins a részletekért</summary>   
 
-1. Szélsőséges Jelszint Tesztelése
+1. Szélsőséges Jelszint Tesztelése   
 
-- **Cél**: Vizsgálni, hogyan viselkedik a rendszer különböző jelszint értékek mellett.
+- **Cél**: Vizsgálni, hogyan viselkedik a rendszer különböző jelszint értékek mellett.   
 
-- **Lépések**:
+- **Lépések**:  
 
-  1. Állítsuk be a jelszintet az RF kimeneten szélsőségesen alacsony és magas értékekre (pl. -60 dBm, -20 dBm).
+  1. Állítsuk be a jelszintet az RF kimeneten szélsőségesen alacsony és magas értékekre (pl. -60 dBm, -20 dBm).  
 
-  2. Mérjük meg a bitsebességet és a MER-t a kiválasztott modulációs típusok mellett.
+  2. Mérjük meg a bitsebességet és a MER-t a kiválasztott modulációs típusok mellett.  
 
-- **Elvárt eredmények**: Magasabb jelszintnél stabilabb adatátvitel, alacsonyabb jelszintnél romló MER és csökkenő bitsebesség.
+- **Elvárt eredmények**: Magasabb jelszintnél stabilabb adatátvitel, alacsonyabb jelszintnél romló MER és csökkenő bitsebesség.   
 
----
+---  
 
 2. Szűkebb és Szélesebb Sávszélesség Hatásai
 
@@ -178,8 +178,8 @@ Az alábbi táblázatban összefoglaljuk a mérések eredményeit különböző 
   1. Végezze el a méréseket különböző hőmérsékleteken (pl. 0°C, 25°C, 30°C).
 
   2. Rögzítse a jelszint, MER és bitsebesség értékeket.
-  
-- **Elvárt eredmények**: Szélsőséges hőmérsékleteken csökkenhet a rendszer stabilitása.
+
+- **Elvárt eredmények**: Szélsőséges hőmérsékleteken csökkenhet a rendszer stabilitása.   
 
 </details>
 
@@ -192,7 +192,12 @@ Az alábbi táblázatban összefoglaljuk a mérések eredményeit különböző 
 
 ---
 
-## 10. Mért Képek
+## 10. Záró Összegzés
+
+
+---
+
+## 11. Mért Képek
 
 <details>
 <summary>Kattins a részletekért</summary>
