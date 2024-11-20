@@ -161,6 +161,10 @@ Az alábbi táblázatban összefoglaljuk a mérések eredményeit különböző 
 
 <br>
 
+<img src="https://erosbence27.github.io/jegyzokonyv/image/munkakep1.jpg"/>
+
+<br>
+
 <img src="https://erosbence27.github.io/jegyzokonyv/image/frekik.bmp"/>
 
 <br>
