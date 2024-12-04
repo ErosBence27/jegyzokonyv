@@ -10,4 +10,6 @@
 
 ## [04.Frekvencia vs. moduláció mérés](https://erosbence27.github.io/jegyzokonyv/freki_modu)
 
+## [03. Antenna összehasonlítás mérés](https://erosbence27.github.io/jegyzokonyv/antenna_ossz)
+
 
