@@ -17,7 +17,7 @@
 ---
 
 ## 1. Mérés Célja 
-
+Tanzisztor működésének vizasgálata.
 
 ---
 
