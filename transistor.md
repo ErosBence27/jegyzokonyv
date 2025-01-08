@@ -32,7 +32,7 @@ Tanzisztor működésének vizasgálata.
 
 |Alkatrészek|Értékek|
 |-----------|-------|
-|Rbe        |1.47k  |
+|Rbe        |1.47k $\Omega$  |
 |Rc         |220 $\Omega$    |
 |$\beta$    |89     |
 
