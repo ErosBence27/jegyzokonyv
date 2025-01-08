@@ -75,9 +75,15 @@
 
 ---
 
-## 8.Falstad Link
+## 8. Összeépített
 
 
+
+---
+
+## 9.Falstad Link
+
+[Link](https://www.falstad.com/circuit/circuitjs.html?ctz=CQAgjCAMB0l3BWcMBMcUHYMGZIA4UA2ATmIxAUgoqoQFMBaMMAKABcQUUAWEXXlHjx9IvKhBgI8haRkLZShBAkIoo0QpsrF8JQhm4YEvPMRAATOgDMAhgFcANmxZhVnIeEJVBwn5wvW9k4MDnTm4FCRMJCsAO7uwthoCXwyUCwA5inYaX7crlEsAE6cPCK8rlT8kWCUkCzxfjnClanC9QBunlVprdVUVNzeUeoILABKKdy+HgUDIEPU85INUzPCeAPFKZsprd5oq3mJadPpjbNebd3pAA7XZ8032CNg8O8sQA)
 
 ---
 
