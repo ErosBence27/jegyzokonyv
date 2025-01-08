@@ -34,7 +34,7 @@ Tanzisztor működésének vizasgálata.
 |-----------|-------|
 |Rbe        |1.47k  |
 |Rc         |220    |
-|$/beta$    |89     |
+|$\beta$    |89     |
 
 ---
 
