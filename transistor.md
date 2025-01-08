@@ -38,6 +38,8 @@
 
 ## 4. Kapcsolasi rajz
 
+![kapcsolasrajz](https://github.com/user-attachments/assets/00b86d92-13a3-4277-b019-df7a2c8ef0b5)
+
 ---
 
 ## 5. Mért adatok vs. Szimuláció
@@ -58,6 +60,9 @@
 ---
 
 ## 6. Diagrammok
+![mértadatok diagramm](https://github.com/user-attachments/assets/9d98cab3-a51f-43ed-839d-137299937011)
+
+![szimulácios diagramm](https://github.com/user-attachments/assets/57cc4008-8504-4f00-9c31-95d7451f9419)
 
 
 ---
