@@ -77,7 +77,7 @@
 
 ## 8. Összeépített
 
-
+<img src="https://erosbence27.github.io/jegyzokonyv/image/20250108_130253.jpg"/>
 
 ---
 
