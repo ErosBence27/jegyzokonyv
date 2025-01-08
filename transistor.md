@@ -60,7 +60,9 @@
 ---
 
 ## 6. Diagrammok
-![mértadatok diagramm](https://github.com/user-attachments/assets/9d98cab3-a51f-43ed-839d-137299937011)
+
+![mértadatok diagramm](https://github.com/user-attachments/assets/ef901e09-2eb6-4ae4-8ccb-e58e06724324)
+
 
 ![szimulácios diagramm](https://github.com/user-attachments/assets/57cc4008-8504-4f00-9c31-95d7451f9419)
 
