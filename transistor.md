@@ -21,12 +21,20 @@ Tanzisztor működésének vizasgálata.
 
 ---
 
-## 2. Alkalmazott Mérőeszközök és Készülékek
+## 2. Alkalmazott Mérőeszközök és Készülékek és Alkatrészek
 
 | Műszer neve                         | Gyártási szám         |
 | ----------------------------------- | -------------------   |
 |  NImyDAQ                            | 3045906               |
 | Metex                               | 736015                |
+
+---
+
+|Alkatrészek|Értékek|
+|-----------|-------|
+|Rbe        |1.47k  |
+|Rc         |220    |
+|$/beta$    |89     |
 
 ---
 
