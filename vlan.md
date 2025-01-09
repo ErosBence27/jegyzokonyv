@@ -29,6 +29,12 @@ A projekt célja a VLAN-ok közötti forgalom irányítása és az IP-címek aut
 
 ---
 
+##Topologia
+
+![topologia](https://github.com/user-attachments/assets/1c3f711c-80c1-4bec-bd94-c1a46fd2b336)
+
+---
+
 ## Használt Eszközök:
 
 | **Eszköz**           | **Típus**             | **Sorozatszám** |
