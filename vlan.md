@@ -83,10 +83,15 @@ Elneveztük a WiFi-t úgy, mint egy igazi cégnél.
 
 ---
 
+![összerakot](https://github.com/user-attachments/assets/0c50995b-bc2c-49e9-90c2-7d105c850142)
+
+---
+
 ## A router-on-a-stick módszerhez létrehozott alinterfészek:
 
 ### R1 alinterfészek:
-![brief](https://github.com/user-attachments/assets/b1396a12-386d-4d41-ab5b-dd55a858e389)
+
+![brief](https://github.com/user-attachments/assets/7d7f6975-4c50-4e97-8a85-214db57fe3f2)
 
 
 
@@ -96,12 +101,13 @@ Elneveztük a WiFi-t úgy, mint egy igazi cégnél.
 
 ### S1 VLAN-ok:
 
-![Vlan_SW1](https://github.com/user-attachments/assets/d8680001-184c-467e-bb8d-8ac0b77c62b0)
+![S1_vlan](https://github.com/user-attachments/assets/087ed9b9-8085-4ff6-a80b-5749736250d8)
 
 
 ### S2 VLAN-ok:
 
-![Vlan_SW2](https://github.com/user-attachments/assets/2866af24-2951-4338-a63c-1f8e45f2b3d6)
+![s2_vlan](https://github.com/user-attachments/assets/32717b83-9215-44b4-8693-59de7b965924)
+
 
 
 ---
@@ -110,7 +116,9 @@ Elneveztük a WiFi-t úgy, mint egy igazi cégnél.
 
 ### DHCP Beállítások:
 
-![dhcp](https://github.com/user-attachments/assets/e1e65d1a-1803-4d09-885d-b8773b8170c1)
+![dhcp](https://github.com/user-attachments/assets/1cc0bcd8-f1b1-444c-922e-5a79e6fd31ed)
+
+![dhcp binding](https://github.com/user-attachments/assets/a7e8bb45-029e-4682-a65a-8100afdd62eb)
 
 
 ---
@@ -118,16 +126,40 @@ Elneveztük a WiFi-t úgy, mint egy igazi cégnél.
 ## A VLAN-ok közötti forgalom irányítás tesztelése különböző kliensekkel, pingeléssel:
 
 - **Ping VLAN 20 → 30**
+  
  ![Ping_PCA-PCB](https://github.com/user-attachments/assets/41b15034-1f88-4854-8d06-90e75987fd91)
 
 - **Ping VLAN 20 → 40**
+  
   ![Ping_PCA-LaptopA](https://github.com/user-attachments/assets/26ae9c4f-59cd-47f3-9162-812085b6b76c)
 
 - **Ping VLAN 30 → 40**
+  
   ![Ping_PCB-LaptopA](https://github.com/user-attachments/assets/61431883-4132-4a43-9972-1aed9976e942)
 
+---
 
-  
+## Wifi Konfig:
+
+![wifi_1](https://github.com/user-attachments/assets/1b1277b3-b0f2-4b5a-868c-3484a7c79b8c)
+
+![wifi_2](https://github.com/user-attachments/assets/80f46a56-93d4-4b29-a9df-1239bbf1eb72)
+
+![wifi_3](https://github.com/user-attachments/assets/43be472a-e6f6-413e-8629-4e2185765fdc)
+
+---
+
+## Konfigok:
+
+[R1 Konfig](https://github.com/user-attachments/files/18359510/R1.txt)
+
+[S1 Konfig](https://github.com/user-attachments/files/18359515/S1.txt)
+
+[S2 Konfig](https://github.com/user-attachments/files/18359516/S2.txt)
+
+
+---
+ 
 **Aláírás:** Erős Bence Szabó Tamás
 
 **Dátum:** 2025. 01. 09.
