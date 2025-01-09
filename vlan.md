@@ -4,7 +4,8 @@
 
 # MÉRÉSI JEGYZŐKÖNYV
 
-**A mérést végző neve:** Erős Bence és Szabó Tamás 
+**A mérést végző neve:** Erős Bence és Szabó Tamás
+
 **A mérés tárgya:** Inter Vlan Routing 
 **A mérés száma:** 1. mérés  
 **A mérés dátuma:** 2025. 01. 09  
@@ -127,3 +128,6 @@ Elneveztük a WiFi-t úgy, mint egy igazi cégnél.
 
 
   
+**Aláírás:** Erős Bence Szabó Tamás
+
+**Dátum:** 2025. 01. 09.
