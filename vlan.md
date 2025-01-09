@@ -85,8 +85,9 @@ Elneveztük a WiFi-t úgy, mint egy igazi cégnél.
 ## A router-on-a-stick módszerhez létrehozott alinterfészek:
 
 ### R1 alinterfészek:
+![brief](https://github.com/user-attachments/assets/b1396a12-386d-4d41-ab5b-dd55a858e389)
 
-(alinterfészek leírása)
+
 
 ---
 
@@ -94,11 +95,13 @@ Elneveztük a WiFi-t úgy, mint egy igazi cégnél.
 
 ### S1 VLAN-ok:
 
-(S1 VLAN-ok leírása)
+![Vlan_SW1](https://github.com/user-attachments/assets/d8680001-184c-467e-bb8d-8ac0b77c62b0)
+
 
 ### S2 VLAN-ok:
 
-(S2 VLAN-ok leírása)
+![Vlan_SW2](https://github.com/user-attachments/assets/2866af24-2951-4338-a63c-1f8e45f2b3d6)
+
 
 ---
 
@@ -106,12 +109,21 @@ Elneveztük a WiFi-t úgy, mint egy igazi cégnél.
 
 ### DHCP Beállítások:
 
-(DHCP beállítások leírása)
+![dhcp](https://github.com/user-attachments/assets/e1e65d1a-1803-4d09-885d-b8773b8170c1)
+
 
 ---
 
 ## A VLAN-ok közötti forgalom irányítás tesztelése különböző kliensekkel, pingeléssel:
 
 - **Ping VLAN 20 → 30**
+ ![Ping_PCA-PCB](https://github.com/user-attachments/assets/41b15034-1f88-4854-8d06-90e75987fd91)
+
 - **Ping VLAN 20 → 40**
+  ![Ping_PCA-LaptopA](https://github.com/user-attachments/assets/26ae9c4f-59cd-47f3-9162-812085b6b76c)
+
 - **Ping VLAN 30 → 40**
+  ![Ping_PCB-LaptopA](https://github.com/user-attachments/assets/61431883-4132-4a43-9972-1aed9976e942)
+
+
+  
