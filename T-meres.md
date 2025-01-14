@@ -66,6 +66,7 @@ A csillapítók kialakítása egyszerű, a szűrőkörökéhez hasonló, de a fr
 
 A T-típusú csillapítókör szimulációja Falstadban megépitve.
 
+![flastad](https://github.com/user-attachments/assets/6e2a14cf-838b-4980-a3c4-6109fa8dd237)
 
 
 ---
@@ -83,6 +84,12 @@ A T-típusú csillapítókör szimulációja Falstadban megépitve.
 | Átviteli arány       | $5.507 \ \text{dB}$  |
 | Bemeneti impedancia   | $2.17 \ \text{k}\Omega$ |
 | Kimeneti impedancia   | $687 \ \Omega$       |
+
+![scope](https://github.com/user-attachments/assets/7a7e01e3-dead-48c8-988d-87fd22a07c80)
+
+![generator](https://github.com/user-attachments/assets/a774508a-608e-477c-afa3-0c0390111e16)
+
+---
 
 - **Megjegyzés:**
   A csillapító áramkört breadboardon építettük össze. A jelgenerátor 1000 Hz-es, $2 \ \text{Vp2p}$ váltakozó feszültséget állított elő. A CH0 a bemeneti, míg a CH1 a kimeneti feszültséget mutatta. A mérés megerősítette, hogy a kimeneti jel amplitúdója nagyjából a fele a bemenetének.
