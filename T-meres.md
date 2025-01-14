@@ -1,18 +1,18 @@
+# Miskolci Szakképzési Centrum  
+**Kandó Kálmán Informatikai Technikum**  
+**Miskolc Palóczy u. 3.**
+
 # MÉRÉSI JEGYZŐKÖNYV
 
-**Mérést végző neve:** Erős Bence
+**A mérést végző neve:** Erős Bence  
+**A mérés tárgya:** T-Mérés 
+**A mérés száma:** 1. mérés  
+**A mérés dátuma:** 2024. 12. 18  
+**A mérést vezette:** Sándor Péter  
 
-**Mérés tárgya:** T-típusú ellenállás-hálózat
-
-**Mérés száma:** 01
-
-**Mérés időpontja:** 2024.12.18
-
-**Mérést vezette:** Sándor Péter
-
-**Évfolyam:** 13. E
-**Csoport:** GYAK 2
-**Helyszín:** V3 labor
+**Évfolyam:** 13. E  
+**Csoport:** GYAK 2  
+**Helyszín:** V3 Labor 
 
 ---
 
