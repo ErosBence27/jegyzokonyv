@@ -98,6 +98,9 @@ Az áramkör sikeresen megvalósításra került, és a mérési eredmények al�
 - **Automatizált Mérés**: Az ismérhetőség érdekében javasolt a mérési eljárások automatizálása.
 
 ---
+[Szimulációs eredmény](https://www.falstad.com/circuit/circuitjs.html?ctz=CQAgjCAMB0l3BWc0wCZIA4AsBmBDUsM4A2AThxAUiqpoQFMBaMMAKADcQySRdVuvdBijhw8WjSnQEbAE6CQwpZhUiaJOGwDuShEIDsAnJCxKjUeSBNnUFrGEMCaWajr6PzArCVsXI7jxqimBYZgG6ylGqoeHuWEF2Avo0SZYADiFhwbHWfKIRfIn2vl6WkarRImmFURao+mUBCg1Oerz8omDEzR5tDh04zuA9Vgn9QZ0aWpkpZXOdlOHi8PCBgwKtfEPl7dvenlPxhzvj+7tnnQs7AUA)
+
+---
 
 **Aláírás:** Erős Bence
 
