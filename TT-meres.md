@@ -26,16 +26,26 @@ A jelen jegyzőkönyv tárgyát egy π csillapító áramkör megvalósítása �
 
 A π csillapító áramkör az ellenállások elrendezéséről kapta nevét, amelyek a görög π betű formáját utánozzák. Az áramkör tervezéséhez a következő képleteket használtuk az ellenállások értékeinek kiszámításához:
 
-![R1 képlete]()
 
-![R2 képlete]()
+## R1 képlete
+
+![svgviewer-output](https://github.com/user-attachments/assets/69e1d223-8301-47d5-991e-cf5a02ca3129)
+
+
+
+## R2 képlete
+
+![svgviewer-output(1)](https://github.com/user-attachments/assets/066c4496-6457-491b-8b07-8cb2e8a842ca)
+
 
 6 dB-es csillapítás esetén az ellenállások értékei az alábbi ábrán láthatók:
 
+![ql_41d4e91c270a0827beb0bb25f1c6a62a_l3](https://github.com/user-attachments/assets/885313a7-7437-4c7a-ae67-1187bd0af9c2)
 
 
 Az alábbi kapcsolási rajz bemutatja a jelgenerátor belső ellenállását, valamint a π csillapító áramkört a megfelelő ellenállásértékekkel:
 
+![falstad](https://github.com/user-attachments/assets/6a13f673-6dae-4699-b7e5-f4dd4bd87ebf)
 
 
 
@@ -43,17 +53,24 @@ Az alábbi kapcsolási rajz bemutatja a jelgenerátor belső ellenállását, va
 
 ### 3. **Mérési Paraméterek**
 
+- **NI myDAQ**
+- **Ellenállások:**
+
 | Paraméter           | Érték |
 |---------------------|-------|
-| Generátor feszültsége | 5.00 Vp2p|
-| Kimeneti jel        | 2.06 Vp2p |
+| Generátor feszültsége | 2.00 Vp2p|
+| Kimeneti jel        | 0,494 Vp2p |
 | Generátor frekvencia| 1000 Hz |
-| Csillapítás         | -7.702 dB |
-| Átviteli arány      | 7.702 dB |
+| Csillapítás         | -6,35 dB |
+| Átviteli arány      | 2,076 dB |
 | Bemeneti impedancia | 450 Ω |
 | Kimeneti impedancia | 450 Ω |   
 
-Az oszcilloszkópos méréseken a sárga 1-es csatornán a csillapított kimeneti jel, a kék 2-es csatornán pedig a generátor jele látható.
+Az oszcilloszkópos méréseken a zöld 1-es csatornán a csillapított kimeneti jel, a kék 2-es csatornán pedig a generátor jele látható.
+
+![scope](https://github.com/user-attachments/assets/c7ba884a-8443-4741-84d1-18e663a28d21)
+
+![generator](https://github.com/user-attachments/assets/47bb4378-eae5-4169-a4f1-36f3bb9e3b4b)
 
 
 
@@ -61,9 +78,9 @@ Az oszcilloszkópos méréseken a sárga 1-es csatornán a csillapított kimenet
 
 ### 4. **Mérési Eredmények**
 
-- **Kimeneti Jel**: A kimeneti jel a generátor jelének 41,2%-a.  
-- **Csillapítás/Átviteli arány**: A csillapítási érték 7,702 dB.  
-- **Kimeneti/Bemeneti impedancia**: Az értékek mérése folyamatban.
+- **Kimeneti Jel**: A kimeneti jel a generátor jelének 48,15%-a.  
+- **Csillapítás/Átviteli arány**: A csillapítási érték 2,076 dB.  
+- **Kimeneti/Bemeneti impedancia**: 450 Ω.
 
 ---
 
