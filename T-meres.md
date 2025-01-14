@@ -5,7 +5,7 @@
 # MÉRÉSI JEGYZŐKÖNYV
 
 **A mérést végző neve:** Erős Bence  
-**A mérés tárgya:** T-Mérés 
+**A mérés tárgya:** T-Mérés <br>
 **A mérés száma:** 1. mérés  
 **A mérés dátuma:** 2024. 12. 18  
 **A mérést vezette:** Sándor Péter  
@@ -94,4 +94,13 @@ A T-típusú csillapítókör szimulációja Falstadban megépitve.
 - **Megjegyzés:**
   A csillapító áramkört breadboardon építettük össze. A jelgenerátor 1000 Hz-es, $2 \ \text{Vp2p}$ váltakozó feszültséget állított elő. A CH0 a bemeneti, míg a CH1 a kimeneti feszültséget mutatta. A mérés megerősítette, hogy a kimeneti jel amplitúdója nagyjából a fele a bemenetének.
 
+---
+
 [Szimulációs eredmények]()
+
+
+
+---
+**Aláírás:** Erős Bence
+
+**Dátum:** 2024. 12. 18.
