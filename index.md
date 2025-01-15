@@ -17,5 +17,6 @@
 ## [07. Frekvencia áthelyezés/Mérés](https://erosbence27.github.io/jegyzokonyv/6700)
 
 
+- **Mérések**
 
-
+## [Tranzisztor működésének vizsgálata](https.//erosbence27.github.io/jegyzokonyv/transistor)
