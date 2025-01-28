@@ -44,6 +44,7 @@ Feladatom az eszközök megfelelő konfigurálása, a hálózati forgalom optima
 
 ## Blokkvázlat:
 
+![topologia](https://github.com/user-attachments/assets/a948cd32-2470-48fa-b8b2-47d84276ebc6)
 
 ---
 
