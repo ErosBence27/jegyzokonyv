@@ -6,7 +6,7 @@
 
 **A mérést végző neve:** Erős Bence  
 **A mérés tárgya:** Komplex Távközlési Hálózat Tervezése, Telepítése és Mérése <br>
-**A mérés száma:** 8. mérés  
+**A mérés száma:** 01. mérés  
 **A mérés dátuma:** 2025. 01. 28  
 **A mérést vezette:** Sándor Péter  
 
