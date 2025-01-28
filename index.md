@@ -16,14 +16,12 @@
 
 ## [07. Frekvencia áthelyezés/Mérés](https://erosbence27.github.io/jegyzokonyv/6700)
 
----
 
 - **Komplex Távközlés Mérés**
 
 
 ## [01. Komplex Távközlési Hálózat Tervezése, Telepítése és Mérése](https://erosbence27.github.io/jegyzokonyv/mikro_vizsga)
 
----
 
 - **Mérések**
 
