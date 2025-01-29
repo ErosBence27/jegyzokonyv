@@ -73,8 +73,13 @@ Első lépésként visszaállítottam a hálózati eszközök gyári beállítá
 
 Ezután konfiguráltam az LTE antennát, amely a **192.168.88.1** IP-címet kapta, valamint DHCP-szerverként is működik, a címeket **192.168.88.100–192.168.88.250** tartományban osztja ki. A dátum is frissítésre került. A laptopot összekötöttem az antennával, beállítottam a megfelelő IP-címet a laptopra, hogy elérjem az eszközt. Ezen a ponton néhány tesztet is elvégeztem, melyek eredményeit az alábbi képek szemléltetik:
 
-[KÉP1]
-[KÉP2]
+![teszt1-3](https://github.com/user-attachments/assets/aba3442a-a28c-479d-b5b0-e8b1bfb71450)
+
+- Kapcsolat Állapota
+  ![teszt1](https://github.com/user-attachments/assets/b574ba60-2c77-4ff0-b23e-a27880f5f5c1)
+
+
+
 
 - Ezután következett a **Mikrotik nRay 60GHz** antennák konfigurálása. Az egyik eszközt **Slave**, a másikat **Master** üzemmódba állítottam be. IP-címeket kaptak: **192.168.88.2** és **192.168.88.3**. A dátumot, időt és jelszót szintén frissítettem.
 
@@ -88,13 +93,22 @@ A hálózat működését **ping parancsokkal** teszt
 
 <details>
   <summary>Ping teszt a Google szerverre</summary>
+![meres2](https://github.com/user-attachments/assets/743152f3-51f2-4e73-bd2f-a6777dac9128)
 
 
 
 </details>
 
 Következő a **Mikrotik nRay 60GHz** antennapár közötti kapcsolatot is teszteltem az **iperf** segítségével:
+![meres4](https://github.com/user-attachments/assets/3c87c7bc-d395-4594-b1c4-fc0d18ef6e13)
+![teszt utols2](https://github.com/user-attachments/assets/828c176f-c610-45b1-b9ff-95e6356c2d5e)
 
 
 A laptopón **Speedtestet** végeztem:
+![speed](https://github.com/user-attachments/assets/f39b4028-60e0-4992-a683-425a1c5e378c)
+
+
+**Aláírás:** Erős Bence
+
+**Dátum:** 2025. 01. 29.
 
