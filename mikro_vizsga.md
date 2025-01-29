@@ -7,7 +7,7 @@
 **A mérést végző neve:** Erős Bence  
 **A mérés tárgya:** Komplex Távközlési Hálózat Tervezése, Telepítése és Mérése <br>
 **A mérés száma:** 01. mérés  
-**A mérés dátuma:** 2025. 01. 28  
+**A mérés dátuma:** 2025. 01. 29  
 **A mérést vezette:** Sándor Péter  
 
 **Évfolyam:** 13. E  
@@ -59,6 +59,42 @@ Feladatom az eszközök megfelelő konfigurálása, a hálózati forgalom optima
 | Switch (opcionális)                 | 192.168.88.254         |
 | Kliens laptop (DHCP)                | 192.168.88.100-250     |
 
+|Használt Szoftverek|
+|-------------------|
+|Winbox             |
+|Iperf              |
+
+
 ---
 
+## Feladat megoldás
+
+Első lépésként visszaállítottam a hálózati eszközök gyári beállításait.  
+
+Ezután konfiguráltam az LTE antennát, amely a **192.168.88.1** IP-címet kapta, valamint DHCP-szerverként is működik, a címeket **192.168.88.100–192.168.88.250** tartományban osztja ki. A dátum is frissítésre került. A laptopot összekötöttem az antennával, beállítottam a megfelelő IP-címet a laptopra, hogy elérjem az eszközt. Ezen a ponton néhány tesztet is elvégeztem, melyek eredményeit az alábbi képek szemléltetik:
+
+[KÉP1]
+[KÉP2]
+
+- Ezután következett a **Mikrotik nRay 60GHz** antennák konfigurálása. Az egyik eszközt **Slave**, a másikat **Master** üzemmódba állítottam be. IP-címeket kaptak: **192.168.88.2** és **192.168.88.3**. A dátumot, időt és jelszót szintén frissítettem.
+
+- A következő lépésben az **ASUS routert** AP módba állítottam be, a szükséges IP-címekkel és felhasználói beállításokkal. Ezt követően a rendszer már elérhetővé vált, és megkezdhettem a tesztelést.  
+
+---
+
+## **Hálózati kapcsolatok ellenőrzése**  
+
+A hálózat működését **ping parancsokkal** teszt
+
+<details>
+  <summary>Ping teszt a Google szerverre</summary>
+
+
+
+</details>
+
+Következő a **Mikrotik nRay 60GHz** antennapár közötti kapcsolatot is teszteltem az **iperf** segítségével:
+
+
+A laptopón **Speedtestet** végeztem:
 
