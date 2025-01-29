@@ -74,8 +74,11 @@ Első lépésként visszaállítottam a hálózati eszközök gyári beállítá
 Ezután konfiguráltam az LTE antennát, amely a **192.168.88.1** IP-címet kapta, valamint DHCP-szerverként is működik, a címeket **192.168.88.100–192.168.88.250** tartományban osztja ki. A dátum is frissítésre került. A laptopot összekötöttem az antennával, beállítottam a megfelelő IP-címet a laptopra, hogy elérjem az eszközt. Ezen a ponton néhány tesztet is elvégeztem, melyek eredményeit az alábbi képek szemléltetik:
 
 ![teszt1-3](https://github.com/user-attachments/assets/aba3442a-a28c-479d-b5b0-e8b1bfb71450)
+<br>
 
 - Kapcsolat Állapota
+<br>
+
   ![teszt1](https://github.com/user-attachments/assets/b574ba60-2c77-4ff0-b23e-a27880f5f5c1)
 
 
@@ -93,6 +96,7 @@ A hálózat működését **ping parancsokkal** teszt
 
 <details>
   <summary>Ping teszt a Google szerverre</summary>
+  
 ![meres2](https://github.com/user-attachments/assets/743152f3-51f2-4e73-bd2f-a6777dac9128)
 
 
