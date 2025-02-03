@@ -76,6 +76,21 @@ A Multicast IP tartomány megválasztása és az IPTV Set-top-box konfigurálás
 
 ---
 
+## Router Konfig
+
+- Router Default IP 192.168.1.1
+- Alapértelmezet Átjáró 192.168.1.1
+- DHCP Konfig 192.168.1.100 - 192.168.1.249
+- IGMP Snopping Procotol [ON]
+- Lan1 --> Lan3 IPTV Bridge
+
+---
+
+## Mag IPTV Konfig
+
+
+
+
 
 
 
