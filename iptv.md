@@ -40,6 +40,7 @@ A Multicast IP tartomány megválasztása és az IPTV Set-top-box konfigurálás
 | MAG IPTV                                         | Set-top box |                     |
 | METEK HDD                                        | METEK       |                     |
 | P-2845F                                          | ISKRA       |                     |
+| Archer C7                                        |TP-Link      |                     |
 
 |Használt Szoftverek|
 |-------------------|
@@ -68,12 +69,13 @@ A Multicast IP tartomány megválasztása és az IPTV Set-top-box konfigurálás
 
 ## Fejállomás bemeneteire beérkező multiplexek
 
-  - **Multiplex 1**: multiplex A
-  - **Multiplex 2**: multiplex B
-  - **Multiplex 7**: Miskolc Városi TV
-  - **Multiplex 8**: multiplex E 
+  - **Input 1**: Multiplex A
+  - **Input 2**: Multiplex B
+  - **Input 3**: Multiplex E 
+  - **Input 4**: Miskolc Városi TV 
 
 ---
+
 
 
 
