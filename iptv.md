@@ -99,7 +99,7 @@
 - Hálózati teljesítmény []
 - Csomagvesztés []
 
-# Lemco SCL-824CT Programok
+## Lemco SCL-824CT Programok
 
 | #  | Input  | Program címe          | OriginalService ID | LCN  | Encrypted | TS Output | OutputService ID | IP cím      | IP port | Protokoll |
 |----|--------|----------------------|-------------------|------|-----------|-----------|----------------|------------|--------|-----------|
