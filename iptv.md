@@ -18,4 +18,62 @@
 
 ## Bevezetés
 
+- A földfelszíni digitális televíziózás **(DVB-T)** elterjedése lehetővé teszi a nagy felbontású és megbízható televíziós adások vételét különböző régiókban. A vizsgafeladat célja egy ilyen rendszer kiépítése, amely magában foglalja a megfelelő adótorony kiválasztását, a vételi jel méréseit és annak IPTV rendszeren keresztüli továbbítását. A Miskolc, Avasi adótorony jeleit fogva a DVB-T jel egy **LEMCO SCL-824CT** fejállomásba kerül bevezetésre, amely ezt követően IPTV streamként szolgáltatja a tartalmat. Az **IPTV rendszer** megfelelő működéséhez a multicast IP tartomány beállítása és a **Set-top-box konfigurálása** is szükséges.
+
+---
+
+## Mérési Cél
+
+- A vizsgázó feladata egy földfelszíni digitális TV vételi rendszer kiépítése, a megfelelő adótorony **(Miskolc, Avasi adótorony)** kiválasztása, a jel mérésének és elosztásának elvégzése, valamint az **IPTV rendszer konfigurálása**.
+
+A fogható multiplexek jelerősségének ellenőrzése, és a DVB-T jel **LEMCO SCL-824CT** fejállomásba történő bevezetése. A fejállomásból a digitális tartalom IPTV streamként kerül kiadásra.
+
+A Multicast IP tartomány megválasztása és az IPTV Set-top-box konfigurálása a megfelelő vételhez.
+
+---
+
+## Alkalmazott eszközök:
+
+| Műszer neve                                      | Típus       | Gyártási szám       |
+| -------------------------------------------------| ------------| --------------------|
+| LEMCO SCL-824CT                                  | LEMCO       |                     |
+| MAG IPTV                                         | Set-top box |                     |
+| METEK HDD                                        | METEK       |                     |
+| P-2845F                                          | ISKRA       |                     |
+
+|Használt Szoftverek|
+|-------------------|
+|Iperf              |
+|VLC                |
+|Wireshark          |
+|FFmpeg             |
+
+---
+
+## Vételi Paraméterek
+
+| Paraméter         | Érték              |
+|-------------------|-------------------|
+| Antenna irányszög (Dny) | 234°         |
+| Osztó típusa     | RF16              |
+| Jelszint         | 51 dB             |
+| MER (Modulációs hiba arány) | 25 dB  |
+| Moduláció        | DVB-T / QPSK / 8K / 1/32 |
+| Páratartalom     | 68%               |
+| Légnyomás        | 1027 mBar         |
+| Hőmérséklet      | 5°C               |
+| Szélsebesség     | 3,2 m/s           |
+
+---
+
+## Fejállomás bemeneteire beérkező multiplexek
+
+  - **Multiplex 1**: multiplex A
+  - **Multiplex 2**: multiplex B
+  - **Multiplex 7**: Miskolc Városi TV
+  - **Multiplex 8**: multiplex E 
+
+---
+
+
 
