@@ -81,14 +81,14 @@
 - Router Default IP 192.168.1.1
 - Alapértelmezet Átjáró 192.168.1.1
 - DHCP Konfig 192.168.1.100 - 192.168.1.249
-- IGMP Snopping Procotol [ON]
+- IGMP Snopping Procotol [<span style="color: #00FF00; font-weight: bold;">ON</span>]
 - Lan1 --> Lan3 IPTV Bridge
 
 ---
 
 ## Mag IPTV Konfig
 
-- Ethernet Auto DHCP Link Status <span style="color: green;">[UpLink]</span>
+- Ethernet Auto DHCP Link Status [<span style="color: #00FF00; font-weight: bold;">UpLink</span>]
 - USB-ről átmásoltuk a kimentet csatorna listát
 
 
