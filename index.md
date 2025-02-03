@@ -25,6 +25,8 @@
 
 ### [01. Komplex Távközlési Hálózat Tervezése, Telepítése és Mérése](https://erosbence27.github.io/jegyzokonyv/mikro_vizsga)
 
+### [02. DVB-T jel fejállomásba küldése és IPTV rendszeren való kiadása](https://erosbence27.github.io/jegyzokonyv/iptv)
+
 ---
 
 # Mérések
