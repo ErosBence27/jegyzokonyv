@@ -28,7 +28,7 @@
 
 - A fogható multiplexek jelerősségének ellenőrzése, és a DVB-T jel **LEMCO SCL-824CT** fejállomásba történő bevezetése. A fejállomásból a digitális tartalom IPTV streamként kerül kiadásra.
 
-- A Multicast IP tartomány megválasztása és az IPTV Set-top-box konfigurálása a megfelelő vételhez.
+- A Multicast IP tartomány megválasztása és az **IPTV Set-top-box** konfigurálása a megfelelő vételhez.
 
 ---
 
