@@ -92,6 +92,14 @@
 - USB-ről átmásoltuk a kimentet csatorna listát
 
 
+## Mérési Eredmények
+
+- Multicast csomagok []
+- IPTV stream elemzése []
+- Hálózati teljesítmény []
+- Csomagvesztés []
+
+
 
 
 
