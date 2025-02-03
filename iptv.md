@@ -88,6 +88,9 @@
 
 ## Mag IPTV Konfig
 
+- Ethernet Auto DHCP Link Status [<span style="color: green;">UpLink</span>]
+- USB-ről átmásoltuk a kimentet csatorna listát
+
 
 
 
