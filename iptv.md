@@ -101,9 +101,7 @@
 
 ---
 
-<details>
-  
-<summary>Lemco SCL-824CT Programok</summary>
+## Lemco SCL-824CT Programok
 
 | #  | Input  | Program címe          | OriginalService ID | LCN  | Encrypted | TS Output | OutputService ID | IP cím      | IP port | Protokoll |
 |----|--------|----------------------|-------------------|------|-----------|-----------|----------------|------------|--------|-----------|
@@ -125,7 +123,6 @@
 | 16 | Input 3 | HEVC teszt          | 524               | 0    | FTA       | 2         | 524            | 224.0.0.2  | 10016  | UDP       |
 | 17 | Input 4 | Miskolc TV          | 1000              | 0    | FTA       | 2         | 1000           | 224.0.0.2  | 10017  | UDP       |
 
-</details>
 
 ---
 
