@@ -289,6 +289,21 @@
 
 ---
 
+## 17. Használt Eszközről Kép
+
+<details>
+
+
+<summary>Kép megtekintése</summary>
+
+
+![20250206_120251](https://github.com/user-attachments/assets/f53f79be-c7c3-475d-83c0-f6e117fe8918)
+
+
+</details>
+
+---
+
 ## Záró Összegzés
 
 - A tesztelés során a **Linksys router**, a **Catalyst 2950 switch** és a többi hálózati eszköz problémamentesen működtek együtt. Az IP-konfigurációk kezelése, a routing tábla megjelenítése, valamint a különböző hálózati parancsok futtatása zavartalanul zajlott. A mobiltelefonos csatlakozás lehetővé tette a laptop és a többi eszköz közötti kommunikációt.
