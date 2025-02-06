@@ -39,6 +39,7 @@
 
 <details>
   <summary>Kép megtekintése</summary>
+
   
 ![ipconfig](https://github.com/user-attachments/assets/113ca128-9106-4d64-8856-ea6c014122bf)
 
@@ -53,6 +54,7 @@
 <details>
 
   <summary>Kép megtekintése</summary>
+
   
 ![release](https://github.com/user-attachments/assets/9b791ee8-bd29-4ac8-93a8-97c014e31911)
 
@@ -67,6 +69,7 @@
 <details>
 
   <summary>Kép megtekintése</summary>
+
   
 ![renew](https://github.com/user-attachments/assets/32c16295-0fe8-4381-aa6c-71625acb84d4)
 
@@ -81,6 +84,7 @@
 <details>
 
   <summary>Kép megtekintése</summary>
+
   
 ![netstat](https://github.com/user-attachments/assets/44836301-d866-4d40-93a5-fae4b308d74b)
 
@@ -94,6 +98,7 @@
 <details>
 
   <summary>Kép megtekintése</summary>
+
   
 ![ping_microsoft](https://github.com/user-attachments/assets/d813b3d6-e78b-4026-9881-3dbb6a86eb58)
 
@@ -109,6 +114,7 @@
 
   <summary>Kép megtekintése</summary>
 
+
   ![tracer_ipon](https://github.com/user-attachments/assets/3f6893e2-629f-465c-8a63-d4e0c9a1bf27)
 
 
@@ -121,6 +127,7 @@
 <details>
 
   <summary>Kép megtekintése</summary>
+
   
 ![netstat -a](https://github.com/user-attachments/assets/8a533980-69da-42f9-b610-84f3566872f0)
 
@@ -135,6 +142,7 @@
 <details>
 
   <summary>Kép megtekintése</summary>
+
   
 ![netstat -an](https://github.com/user-attachments/assets/26e589b0-2c38-49f8-9721-fe0cedf5fe5a)
 
@@ -148,6 +156,7 @@
 <details>
 
   <summary>Kép megtekintése</summary>
+
   
 ![dns](https://github.com/user-attachments/assets/2aa26bbb-c02a-432e-bb9b-de81d2ef7060)
 
@@ -163,6 +172,7 @@
 
   <summary>Kép megtekintése</summary>
 
+
   ![net use](https://github.com/user-attachments/assets/b041e600-f1b8-48bd-b7d9-344466935605)
 
 
@@ -175,6 +185,7 @@
 <details>
 
   <summary>Kép megtekintése</summary>
+
   
 ![nslookup_ipon](https://github.com/user-attachments/assets/491ffa30-659a-4f2e-a162-e3a452f9eba3)
 
@@ -188,6 +199,7 @@
 
 <details>
   <summary>Kép megtekintése</summary>
+
   
 ![Screenshot_20250206_103552_Settings](https://github.com/user-attachments/assets/7c081d19-c437-489d-a5d1-d360791ae915)
 
@@ -200,6 +212,7 @@
 
 <details>
   <summary>Kép megtekintése</summary>
+
   
 ![router_config_1](https://github.com/user-attachments/assets/61640790-543a-42e4-8189-8859c7e74d91)
 
@@ -209,6 +222,7 @@
 <details>
   <summary>Kép megtekintése</summary>
 
+
   ![router_config_2](https://github.com/user-attachments/assets/a80c1e72-e317-465a-b5fe-cda82154c91b)
 
 </details>
@@ -216,6 +230,7 @@
 <details>
 
   <summary>Kép megtekintése</summary>
+
   
 ![router_config_3](https://github.com/user-attachments/assets/29d51a61-419e-4830-bfee-7bc591f53790)
 
@@ -224,6 +239,7 @@
 
 <details>
 <summary>Kép megtekintése</summary>
+
   
   ![block_wan_ping](https://github.com/user-attachments/assets/7c472f26-0d37-45cb-bb76-db88ec5080c7)
 
@@ -236,6 +252,7 @@
 <details>
 
 <summary>Kép megtekintése</summary>
+
 
 ![ping_telefonra](https://github.com/user-attachments/assets/1283e75a-f727-4130-88a2-78cc0887dd8c)
 
@@ -250,6 +267,7 @@
 
 <summary>Kép megtekintése</summary>
 
+
 ![speedtest](https://github.com/user-attachments/assets/2099c4a7-46df-4f43-bb72-e5fe286fa20c)
 
 
@@ -262,6 +280,7 @@
 <details>
 
 <summary>Kép megtekintése</summary>
+
 
 ![Screenshot_20250206_103859_WiFi Monitor](https://github.com/user-attachments/assets/cbfb7310-42f3-4fee-ab78-683f8ed1bba9)
 
