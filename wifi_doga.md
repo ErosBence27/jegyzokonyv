@@ -29,7 +29,7 @@
 | Eszköz                | Funkció                                                                 |
 |-----------------------|-------------------------------------------------------------------------|
 | Catalyst 2950 switch   | Biztosította a hálózati eszközök közötti kommunikációt.                |
-| Linksys router         | A hálózati forgalom irányítását és központi vezérlését végezte.         |
+| Linksys WRT54GL router | A hálózati forgalom irányítását és központi vezérlését végezte.         |
 | ThinkPad laptop        | A tesztelési folyamatokhoz használt eszköz, amelyen ping tesztek és egyéb hálózati parancsok futottak. |
 | Mobiltelefon           | A Linksys routerhez való csatlakozást tette lehetővé, így pingelni tudtam a laptop és más eszközök között. |
 
