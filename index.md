@@ -29,6 +29,14 @@
 
 ---
 
+# IP-Hálozatok
+
+### [01. Vlan](https://erosbence27.github.io/jegyzokonyv/vlan)
+
+### [02. Wifi](https://erosbence27.github.io/jegyzokonyv/wifi_doga)
+
+---
+
 # Mérések
 
 ### [Tranzisztor működésének vizsgálata](https.//erosbence27.github.io/jegyzokonyv/transistor)
