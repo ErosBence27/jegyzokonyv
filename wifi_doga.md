@@ -157,6 +157,7 @@
 
 <details>
   <summary>Kép megtekintése</summary>
+![Screenshot_20250206_103552_Settings](https://github.com/user-attachments/assets/7c081d19-c437-489d-a5d1-d360791ae915)
 
   
 </details>
@@ -218,6 +219,7 @@
 <details>
 
 <summary>Kép megtekintése</summary>
+![Screenshot_20250206_103859_WiFi Monitor](https://github.com/user-attachments/assets/cbfb7310-42f3-4fee-ab78-683f8ed1bba9)
 
 
 </details>
