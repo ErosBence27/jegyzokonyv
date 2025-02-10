@@ -27,6 +27,8 @@
 
 ### [02. DVB-T jel fejállomásba küldése és IPTV rendszeren való kiadása](https://erosbence27.github.io/jegyzokonyv/iptv)
 
+### [03. Amplitúdómoduláció vizsgálata a GRF-1300A trénerrel](https://erosbence27.github.io/jegyzokonyv/1300-a)
+
 ---
 
 # IP-Hálozatok
