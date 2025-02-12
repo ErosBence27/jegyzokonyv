@@ -55,9 +55,9 @@ kivonjuk a mért értéket.
 
 <summary>Kép megtekintése</summary>
 
-<img src="https://erosbence27.github.io/jegyzokonyv/image/01.bmp"/>
+<img src="https://github.com/user-attachments/assets/da4063f3-f233-45dc-ba04-c781cf445212" width="315px">
 
-
+<img src="https://github.com/user-attachments/assets/42fe7f85-e967-48c8-af57-1b6d1097bcef" width="315px">
 
 </details>
 
@@ -70,8 +70,7 @@ kivonjuk a mért értéket.
 
 <summary>Kép megtekintése</summary>
 
-<img src="https://erosbence27.github.io/jegyzokonyv/image/01.bmp"/>
-
+![its_snapshot_0001](https://github.com/user-attachments/assets/988d9883-a088-4397-ac43-b0d2d0ed0209)
 
 
 </details>
@@ -85,8 +84,7 @@ kivonjuk a mért értéket.
 
 <summary>Kép megtekintése</summary>
 
-<img src="https://erosbence27.github.io/jegyzokonyv/image/01.bmp"/>
-
+![its_snapshot_0002](https://github.com/user-attachments/assets/30a7d345-cb6d-4fda-90ef-16dbf9ff5e8f)
 
 
 </details>
