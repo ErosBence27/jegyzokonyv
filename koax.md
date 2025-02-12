@@ -5,7 +5,7 @@
 # MÉRÉSI JEGYZŐKÖNYV
 
 **A mérést végző neve:** Erős Bence  
-**A mérés tárgya:** Koax kábel készités <br>
+**A mérés tárgya:** Koax kábel készítés <br>
 **A mérés száma:** 01. mérés  
 **A mérés dátuma:** 2025. 02. 12  
 **A mérést vezette:** Sándor Péter  
@@ -39,7 +39,7 @@ kivonjuk a mért értéket.
 ---
 
 
-## Mért Adatok
+## 03. Mért Adatok
 
 | Frekvencia [MHz] | Jelszint [dBuV] | Csillapítás [dBuV] |
 |------------------|----------------|---------------------|
@@ -48,7 +48,7 @@ kivonjuk a mért értéket.
 
 ---
 
-## Kábelről kép
+## 04. Kábelről kép
 
 <details>
 
