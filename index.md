@@ -39,6 +39,11 @@
 
 ---
 
+# Kábel Készítés
+
+### [01. Koax](https://erosbence27.github.io/jegyzokonyv/koax)
+
+
 # Mérések
 
 ### [Tranzisztor működésének vizsgálata](https.//erosbence27.github.io/jegyzokonyv/transistor)
