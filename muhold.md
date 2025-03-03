@@ -58,7 +58,9 @@ Végül beállítottam a megfelelő régiót és országot, majd elindítottam a
 
 ### Csatornainformációk.
 
+<img src="" width="300px">
 
+<img src="" width="300px">
 
 - Csatorna neve: M1 HD.
 - Service ID: 101
@@ -73,5 +75,12 @@ Végül beállítottam a megfelelő régiót és országot, majd elindítottam a
 ## Set-Top box
 
 
+<img src="" width="300px">
 
+<img src="" width="300px">
+
+
+**Aláírás:** Erős Bence 
+
+**Dátum:** 2025. 03. 03.
 
