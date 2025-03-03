@@ -62,13 +62,16 @@ Végül beállítottam a megfelelő régiót és országot, majd elindítottam a
 
 <img src="" width="300px">
 
-- Csatorna neve: M1 HD.
-- Service ID: 101
-- Network ID: 158
-- ONID (Original Network ID) érték: 106
-- Felbontás: 1920 × 1080 (Full HD)
-- VPID (Video PID) és bitráta: 1101 / 3.989220 Mb/s (H.264 tömörítés)
-- APID (Audio PID) és bitráta: 1201 / 0.415802 Mb/s (AC3 hangformátum)
+| Csatorna adatai         | Részletek                                   |
+|------------------------|--------------------------------------------|
+| **Csatorna neve**      | M1 HD                                     |
+| **Szolgáltatás azonosító (Service ID)** | 101                        |
+| **Hálózat azonosító (Network ID)**     | 158                        |
+| **Eredeti hálózat azonosító (ONID)**   | 106                        |
+| **Képfelbontás**       | 1920 × 1080 (Full HD)                     |
+| **Videó PID és bitráta** | 1101 / 3.989220 Mb/s (H.264 tömörítés) |
+| **Hang PID és bitráta**  | 1201 / 0.415802 Mb/s (AC3 hangformátum) |
+
 
 ---
 
@@ -79,6 +82,8 @@ Végül beállítottam a megfelelő régiót és országot, majd elindítottam a
 
 <img src="" width="300px">
 
+
+---
 
 **Aláírás:** Erős Bence 
 
