@@ -29,6 +29,8 @@
 
 ### [03. Amplitúdómoduláció vizsgálata a GRF-1300A trénerrel](https://erosbence27.github.io/jegyzokonyv/1300-a)
 
+### [04. Műholdas vételi rendszer telepítése, konfigurálása és mérése](https://erosbence27.github.io/jegyzokonyv/muhold)
+
 ---
 
 # IP-Hálozatok
