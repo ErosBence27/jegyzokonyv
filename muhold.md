@@ -77,10 +77,14 @@ Végül beállítottam a megfelelő régiót és országot, majd elindítottam a
 
 ## Set-Top box
 
+### Tv csatornák keresése
+
 <img src="https://github.com/user-attachments/assets/7dff4e4b-3a8b-46d3-992a-facbcc0215e6" width="300px">
+
 
 <img src="https://github.com/user-attachments/assets/031b5371-bec4-4781-b633-25378858c61c" width="300px">
 
+**Quality:87** 
 
 ---
 
