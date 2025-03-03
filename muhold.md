@@ -49,7 +49,7 @@ Végül beállítottam a megfelelő régiót és országot, majd elindítottam a
 
 ### Az alábbi kép a spektrumanalizátoron lévő műholdas jelszint kijelzőjét mutatja. 
 
- ![its_snapshot_0002](https://github.com/user-attachments/assets/35f823b8-6930-40b0-b3a9-0e259ef5a671)
+<img src="https://github.com/user-attachments/assets/35f823b8-6930-40b0-b3a9-0e259ef5a671" width="600px">
 
   - A vizsgált frekvencia 1358.0 MHz.
   - A műhold: Eutelsat 9A (9B-vel megegyező csatornakiosztásai vannak).
