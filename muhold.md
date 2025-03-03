@@ -4,7 +4,7 @@
 
 # MÉRÉSI JEGYZŐKÖNYV 
 
-**A mérést végző neve:** Erős Bence 
+**A mérést végző neve:** Erős Bence <br>
 **A mérés tárgya:**  Műholdas vételi rendszer kiépítése     
 **A mérés száma:** 01. mérés    
 **A mérés dátuma:** 2025. 03. 03.    
@@ -58,9 +58,9 @@ Végül beállítottam a megfelelő régiót és országot, majd elindítottam a
 
 ### Csatornainformációk.
 
-<img src="https://github.com/user-attachments/assets/f09b20e9-6991-4a65-89e1-371d06a6181d" width="400px">
+<img src="https://github.com/user-attachments/assets/f09b20e9-6991-4a65-89e1-371d06a6181d" width="350px">
 
-<img src="https://github.com/user-attachments/assets/c9866975-e921-4f90-85b2-ee9293c21204" width="400px">
+<img src="https://github.com/user-attachments/assets/c9866975-e921-4f90-85b2-ee9293c21204" width="350px">
 
 | Csatorna adatai         | Részletek                                   |
 |------------------------|--------------------------------------------|
@@ -79,10 +79,10 @@ Végül beállítottam a megfelelő régiót és országot, majd elindítottam a
 
 ### Tv csatornák keresése
 
-<img src="https://github.com/user-attachments/assets/7dff4e4b-3a8b-46d3-992a-facbcc0215e6" width="250px">
+<img src="https://github.com/user-attachments/assets/7dff4e4b-3a8b-46d3-992a-facbcc0215e6" width="200px">
 
 
-<img src="https://github.com/user-attachments/assets/031b5371-bec4-4781-b633-25378858c61c" width="250px">
+<img src="https://github.com/user-attachments/assets/031b5371-bec4-4781-b633-25378858c61c" width="200px">
 
 **Quality:87** 
 
